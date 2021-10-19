@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "posts"
+		},
+		{
+			"path": "comments"
+		},
+		{
+			"path": "reactCode\\frontend"
+		},
+		{
+			"path": "eventBus"
+		},
+		{
+			"path": "queryService"
+		},
+		{
+			"path": "modaration"
+		}
+	],
+	"settings": {}
+}
