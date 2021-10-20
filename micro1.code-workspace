@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "modaration"
+		},
+		{
+			"path": "infra"
 		}
 	],
 	"settings": {}
