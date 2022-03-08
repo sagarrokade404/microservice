@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: nodeserver/posts
+          image: sagarsasuke/posts

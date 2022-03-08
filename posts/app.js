@@ -43,6 +43,6 @@ app.post("/events", (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log('version 0.0.4')
+  console.log('version v60')
   console.log("server started at 3001");
 });
